@@ -11,9 +11,9 @@
     Frontend & backend projects using JavaScript & React 🚀
     Open-source contributions 📚
 - 📬 Reach Me At:
-    GitHub: [pudurudeepika](https://github.com/pudurudeepika)
-    LinkedIn: [pudurudeepika](https://www.linkedin.com/in/puduru-deepika-0625a9267/)
-    Email: [pudurudeepika7@gmail.com]
+-     GitHub: [pudurudeepika](https://github.com/pudurudeepika)
+      LinkedIn: [pudurudeepika](https://www.linkedin.com/in/puduru-deepika-0625a9267/)
+      Email: [pudurudeepika7@gmail.com]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
    I can stitch clothes, create awesome coding tutorials, and express myself through dance 💃, all while being a passionate gamer! 🎮✨
